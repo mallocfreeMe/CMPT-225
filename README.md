@@ -1,2 +1,2 @@
 # CMPT-225
-Data Structure in CPP
+Data Structures in CPP
